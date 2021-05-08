@@ -1,0 +1,11 @@
+1- checkout transaction error rate doesn't exceed 10%? 
+failed
+actual : 52.48%
+
+2- 90% of card number generator transactions doesn't exceed 3 seconds?
+passed
+actual : 387 ms
+
+3- overall average response time for all transactions doesn't exceed 3 seconds?
+passed
+actual : 619ms
